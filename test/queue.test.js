@@ -1,5 +1,5 @@
 const expect = require('chai').expect;
-const Queue = require('../src/queue');
+const Queue = require('../src/Queue');
 
 describe('Queue', function() {
 
